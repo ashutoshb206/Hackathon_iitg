@@ -1,3 +1,4 @@
+# Hackathon - IITG
 A Jupyter Notebook-based data analysis and modeling project created for the IITG hackathon. This project uses machine learning techniques to build a predictive model from provided training data.
 
 🧩 Project Overview
